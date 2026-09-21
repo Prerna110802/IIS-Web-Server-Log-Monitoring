@@ -46,7 +46,7 @@ The following information was examined in the IIS logs:
 
 ### IIS Logs
 
-![IIS Logs](screenshots/IISlogs.jped)
+![IIS Logs](screenshots/IISlogs.jpeg)
 
 ## Security Relevance
 
