@@ -42,10 +42,11 @@ The following information was examined in the IIS logs:
 ### IIS Website
 
 ![IIS Website](screenshots/IIS-WEBSITE.png)
+![IIS Website](screenshots/IIS-WEB.png)
 
 ### IIS Logs
 
-![IIS Logs](screenshots/IISlogs.png)
+![IIS Logs](screenshots/IISlogs.jped)
 
 ## Security Relevance
 
