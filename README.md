@@ -41,11 +41,11 @@ The following information was examined in the IIS logs:
 
 ### IIS Website
 
-![IIS Website](screenshots/iis-website.png)
+![IIS Website](screenshots/IIS-WEBSITE.png)
 
 ### IIS Logs
 
-![IIS Logs](screenshots/iis-logs.png)
+![IIS Logs](screenshots/IISlogs.png)
 
 ## Security Relevance
 
